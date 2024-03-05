@@ -39,7 +39,7 @@
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/muffin.gif
 * tags: easy, story, joke, share
 * next: beginner-cert-1
-* position: 2 0
+* position: 1 1
 
 
 ### beginner-cert-1
