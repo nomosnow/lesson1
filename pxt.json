@@ -5,7 +5,12 @@
   "dependencies": {
     "device": "*"
   },
-  "files": ["README.md", "skillmap.md", "tutorials/story/story1.md"],
+  "files": [
+    "README.md",
+    "skillmap.md",
+    "tutorials/story/story1.md",
+    "tutorials/story/story2.md"
+  ],
   "testFiles": [],
   "targetVersions": {
     "target": "1.0.16",

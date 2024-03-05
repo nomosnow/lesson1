@@ -1,15 +1,6 @@
 # Beginner Arcade
 * name: Beginner's Guide to Arcade Games
 * description: Learn to create arcade games of your own by completing tutorials that focus on greeting cards, a clicker game, and a collector game starring a dinosuar that's determined to save dino babies!
-* infoUrl: skillmap/educator-info/basic-map-info
-* bannerUrl: /static/skillmap/backgrounds/beg-map-tile.png
-* backgroundurl: /static/skillmap/backgrounds/beg-comp.png
-* primarycolor: #ff7f41
-* secondarycolor: #fff53d
-* tertiarycolor: #87f2ff
-* completednodecolor: #738472
-* highlightcolor: #ffffff
-* allowcodecarryover: true
 * tags: easy, beginner, tutorials
 
 
@@ -23,7 +14,18 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * url: https://github.com/nomosnow/gioithieu/tree/main/tutorials/story/story1
-* imageUrl: /static/skillmap/story/story-comp.png
+* imageUrl: https://raw.githubusercontent.com/nomosnow/gioithieu/main/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
 <!-- * next: story-activity2 -->
 * position: 0 0
+
+### story-activity2
+* name: Bigger Greeting
+* type: tutorial
+* description: Add to your greeting card for a gift that keeps on giving!
+* url: https://github.com/nomosnow/gioithieu/tree/main/tutorials/story/story2
+* imageUrl: https://raw.githubusercontent.com/nomosnow/gioithieu/main/skillmap/story/story-activity-2.gif
+* tags: easy, card, creative, art
+* reqired: 1 story
+<!-- * next: story-activity3 -->
+* position: 1 0
