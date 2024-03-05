@@ -46,9 +46,8 @@
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/beginner-cert-01.pdf
-* imageUrl: /static/skillmap/certificates/beginner-cert-01.png
-* position: 3 1
+* url: https://raw.githubusercontent.com/nomosnow/lesson1/main/certificates/beginner-cert-01.pdf
+* imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/certificates/beginner-cert-01.png
 
 * rewards:
     * certificate:
