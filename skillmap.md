@@ -13,8 +13,8 @@
 * name: Greeting Card
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
-* url: https://github.com/nomosnow/gioithieu/tree/main/tutorials/story/story1
-* imageUrl: https://raw.githubusercontent.com/nomosnow/gioithieu/main/skillmap/story/story-comp.png
+* url: https://github.com/nomosnow/lesson1/tree/main/tutorials/story/story1
+* imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
 <!-- * next: story-activity2 -->
 * position: 0 0
@@ -23,8 +23,8 @@
 * name: Bigger Greeting
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
-* url: https://github.com/nomosnow/gioithieu/tree/main/tutorials/story/story2
-* imageUrl: https://raw.githubusercontent.com/nomosnow/gioithieu/main/skillmap/story/story-activity-2.gif
+* url: https://github.com/nomosnow/lesson1/tree/main/tutorials/story/story2
+* imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/story-activity-2.gif
 * tags: easy, card, creative, art
 * reqired: 1 story
 <!-- * next: story-activity3 -->
