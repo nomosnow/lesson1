@@ -39,13 +39,14 @@
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/muffin.gif
 * tags: easy, story, joke, share
 * next: beginner-cert-1
-* position: 1 1
+* position: 3 0
 
 
 ### beginner-cert-1
 * name: Congrats!
 * kind: completion
 * type: certificate
+* position: 4 0
 * url: https://raw.githubusercontent.com/nomosnow/lesson1/main/certificates/beginner-cert-01.pdf
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/certificates/beginner-cert-01.png
 
