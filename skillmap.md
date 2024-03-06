@@ -38,9 +38,19 @@
 * url: https://github.com/nomosnow/lesson1/tree/main/tutorials/story/story3
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/muffin.gif
 * tags: easy, story, joke, share
-* next: beginner-cert-1
+* next: story-activity4
 <!-- * position: 3 0 -->
 
+### story-activity4
+* name: Short Story
+* allowcodecarryover: false
+* type: tutorial
+* description: Create a short Story
+* url: https://github.com/nomosnow/lesson1/tree/main/tutorials/story/story4
+* imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/story4.gif
+* tags: easy, story, joke, share
+* next: beginner-cert-1
+<!-- * position: 3 0 -->
 
 ### beginner-cert-1
 * name: Congrats!
