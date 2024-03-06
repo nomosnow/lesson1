@@ -9,7 +9,10 @@
     "README.md",
     "skillmap.md",
     "tutorials/story/story1.md",
-    "tutorials/story/story2.md"
+    "tutorials/story/story2.md",
+    "tutorials/story/story3.md",
+    "tutorials/story/story4.md",
+    "tutorials/story/challenge.md"
   ],
   "testFiles": [],
   "targetVersions": {

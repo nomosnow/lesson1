@@ -49,6 +49,16 @@
 * url: https://github.com/nomosnow/lesson1/tree/main/tutorials/story/story4
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/story4.gif
 * tags: easy, story, joke, share
+* next: story-challenge
+<!-- * position: 3 0 -->
+
+### story-challenge
+* name: dùng hết tất cả những gì mình đã được học tạo một câu chuyện cho riêng mình
+* allowcodecarryover: false
+* type: tutorial
+* description: tạo một câu chuyện cho riêng mình
+* url: https://github.com/nomosnow/lesson1/tree/main/tutorials/story/challenge
+* tags: easy, story, joke, share
 * next: beginner-cert-1
 <!-- * position: 3 0 -->
 
