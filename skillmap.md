@@ -5,7 +5,7 @@
 
 
 ## Greeting Cards and Jokes
-* layout: manual
+* layout: auto
 
 ### story-activity1
 * allowcodecarryover: false
@@ -17,7 +17,7 @@
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
 * next: story-activity2
-* position: 0 0
+<!-- * position: 0 0 -->
 
 ### story-activity2
 * name: Bigger Greeting
@@ -28,7 +28,7 @@
 * tags: easy, card, creative, art
 * reqired: 1 story
 * next: story-activity3
-* position: 1 0
+<!-- * position: 1 0 -->
 
 ### story-activity3
 * name: Joking Around
@@ -39,14 +39,14 @@
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/skillmap/story/muffin.gif
 * tags: easy, story, joke, share
 * next: beginner-cert-1
-* position: 3 0
+<!-- * position: 3 0 -->
 
 
 ### beginner-cert-1
 * name: Congrats!
 * kind: completion
 * type: certificate
-* position: 4 0
+<!-- * position: 4 0 -->
 * url: https://raw.githubusercontent.com/nomosnow/lesson1/main/certificates/beginner-cert-01.pdf
 * imageUrl: https://raw.githubusercontent.com/nomosnow/lesson1/main/certificates/beginner-cert-01.png
 
